@@ -17,7 +17,7 @@ UpScale empowers brands or organizations to host franchise opportunities, making
 
 ## Features
 
-### 1. **User Registration and Login**
+### 1. **Applicant Registration and Login**
    - **Application Form**: Prospective franchisees submit detailed information, including email, residential address, proposed site location,dimensions etc.  .
    - **Secure Access**: Approved applicants receive a unique password via email for dashboard access.
    - **Login**: Role-based access control to ensure data security.
